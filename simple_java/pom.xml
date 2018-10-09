@@ -5,10 +5,12 @@
         <groupId>net.trajano</groupId>
         <artifactId>trajano</artifactId>
         <version>7</version>
+        
     </parent>
     <groupId>org.formacinc.mavenbook</groupId>
     <artifactId>simple_java</artifactId>
     <version>1.0</version>
+    <packaging>war</packaging>
     <name>simple_java</name>
     <description>maven java project</description>
     <scm>
